@@ -1,7 +1,6 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
-
 package edu.fatec.tp2.ativ4;
 
 import java.util.ArrayList;
@@ -13,12 +12,12 @@ import java.util.Scanner;
  * @author Silvio Junior
  */
 public class Exercicio03 {
-       
+
     public static void main(String[] args) {
         List<Aluno> alunos = new ArrayList<>();
-  
+
         Scanner scanner = new Scanner(System.in);
-        
+
         int opcao;
 
         do {
@@ -60,6 +59,6 @@ public class Exercicio03 {
         } while (opcao != 9);
 
         scanner.close();
-    
+
     }
 }

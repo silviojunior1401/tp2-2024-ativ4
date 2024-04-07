@@ -9,6 +9,7 @@ package edu.fatec.tp2.ativ4;
  * @author Silvio Junior
  */
 class Importado extends Nacional {
+
     private double taxaImportacao;
 
     public Importado(String descricao, double valor, double taxa, double taxaImportacao) {

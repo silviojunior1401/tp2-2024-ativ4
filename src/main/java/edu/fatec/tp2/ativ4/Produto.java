@@ -9,6 +9,7 @@ package edu.fatec.tp2.ativ4;
  * @author Silvio Junior
  */
 public abstract class Produto {
+
     protected String descricao;
     protected double valor;
     protected double imposto;

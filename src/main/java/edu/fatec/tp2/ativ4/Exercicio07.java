@@ -9,6 +9,7 @@ package edu.fatec.tp2.ativ4;
  * @author Silvio Junior
  */
 public class Exercicio07 {
+
     public static void main(String[] args) {
         Retangulo novoRetangulo = new Retangulo();
         novoRetangulo.setLado1(10);

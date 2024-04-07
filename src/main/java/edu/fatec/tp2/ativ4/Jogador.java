@@ -12,7 +12,7 @@ import java.util.Random;
  * @author Silvio Junior
  */
 public class Jogador {
-     private int id;
+    private int id;
     private String nome;
     private String apelido;
     private Date dataNascimento;
